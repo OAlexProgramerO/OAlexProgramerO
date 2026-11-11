@@ -181,7 +181,7 @@
 <img src="assets/h-connect.svg" width="100%" alt="Let's connect" />
 
 <a href="https://github.com/OAlexProgramerO"><img src="https://img.shields.io/badge/GitHub-OAlexProgramerO-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/alexndev"><img src="https://img.shields.io/badge/LinkedIn-alexndev-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221" alt="LinkedIn" /></a>
+
 
 <br/><br/>
 

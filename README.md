@@ -12,7 +12,6 @@
 <br/>
 
 <a href="https://github.com/OAlexProgramerO"><img src="https://img.shields.io/badge/GitHub-OAlexProgramerO-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/alexndev"><img src="https://img.shields.io/badge/LinkedIn-alexndev-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/github/followers/OAlexProgramerO?style=for-the-badge&logo=github&color=8A2BE2&labelColor=0D0221" alt="Followers" />
 
 <br/><br/>
